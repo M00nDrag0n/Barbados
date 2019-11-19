@@ -10,9 +10,7 @@ _This website has no working links and it's primary function is to look like a t
 
 ## Setup/Installation Requirements
 
-* _Clone this repository from Github_
-* _Download to the Desktop of your computer_
-* _Open this content in your browser_
+* _Use this link [] to access the global version of out fake travel website!_
 * _View our lovely page!_
 
 _No additional servers are needed_
@@ -23,14 +21,14 @@ _There are no bugs in this website, as it is more simple than it appears._
 
 ## Support and contact details
 
-_For help, contact www.example.com/Epicodus_
+_If any issues are present, reload the page_
 
 ## Technologies Used
 
-_HTML, Css, Bootstrap_
+_HTML, CSS, Bootstrap_
 
 ### License
 
-*This project was prompted by Epicodus, Portalnd, OR*
+*This project was prompted by Epicodus, Portland, OR*
 
 Copyright (c) 2019 **_{Anise Lester and Alan Hermanns, students of Epicodus}_**

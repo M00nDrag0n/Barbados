@@ -10,7 +10,7 @@ _This website has no working links and it's primary function is to look like a t
 
 ## Setup/Installation Requirements
 
-* _Use this link [ ] to access the global version of out fake travel website!_
+* _Use this link [ https://m00ndrag0n.github.io/Barbados/ ] to access the global version of our fake travel website!_
 * _View our lovely page!_
 
 _No additional servers are needed_
